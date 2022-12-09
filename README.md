@@ -2,13 +2,12 @@
 
 # PI01-DTS05 DATA ENGINEERING
 
----
 
 ## Introducción
 
-Este es el primer proyecto individual de la cohorte 5 de la carrera de data sciense en Henry. El mismo consiste en la realización de una API que permita hacer una serie de consultas sobre
+En el marco del primer proyecto individual de la carrera de Data Science en Henry se solicito a los alumnos la creación de una `API` que responda consultas sobre los datos provistos. Estos datos originalmete provienen de diversas fuentes y requieren un proceso de `ETL` para poder se consultados desde una `Base de datos`.
 
----
+
 
 ## Estructura
 
@@ -16,7 +15,7 @@ Inicialmente se realiza un proceso de ETL con `Python` y los datos se cargan en 
 
 ![Diagrama](_src/Diagrama%20en%20blanco.png)
 
----
+
 
 ## Instalación
 
