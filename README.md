@@ -63,3 +63,7 @@ uvicorn main:app --reload
 Finalizados estos pasos se accede a la aplicación mediante el siguiente enlace:
 
 [Link a la aplicación](http://localhost:8000/docs)
+
+## Deploy Mogenius
+
+[Link a la aplicación](https://pi01-dts05-prod-pi01-dts05-ptmqnd.mo4.mogenius.io/docs)
